@@ -1,5 +1,6 @@
 package com.curso.model;
 /**
+ * Clase modelo Pokemon, contendra las propiedades de la clase
  * @author Daniel Rodriguez
  * @version 1.0.0 26-05-2023
  */

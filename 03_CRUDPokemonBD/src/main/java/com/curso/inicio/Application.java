@@ -1,5 +1,6 @@
 package com.curso.inicio;
 /**
+ * Clase Main Application, sera el ejecutable
  * @author Daniel Rodriguez
  * @version 1.0.0 26-05-2023
  */
