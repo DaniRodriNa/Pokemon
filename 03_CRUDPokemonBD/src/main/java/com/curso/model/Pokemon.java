@@ -1,5 +1,8 @@
 package com.curso.model;
-
+/**
+ * @author Daniel Rodriguez
+ * @version 1.0.0 26-05-2023
+ */
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
@@ -14,6 +17,13 @@ public class Pokemon {
 	private String tipo;
 	public Pokemon() {
 	}
+	/**
+	 * Constructor Pokemon
+	 * @param idPokemon	Parametro del identificador del pokemon
+	 * @param nombre	Parametro del nombre del pokemon
+	 * @param tipo	Parametro del tipo de pokemon,fuego,tierra,agua,planta,etc.
+	 * @param nivel	Parametro del nivel del pokemon
+	 */
 	public Pokemon(int idPokemon, String nombre,String tipo, int nivel) {
 		super();
 		this.idPokemon = idPokemon;

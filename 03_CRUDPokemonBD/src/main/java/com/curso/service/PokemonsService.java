@@ -1,5 +1,9 @@
 package com.curso.service;
-
+/**
+ * Interfaz PokemonsService
+ * @author Daniel Rodriguez
+ * @version 1.0.0 26-05-2023
+ */
 import java.util.List;
 
 import com.curso.model.Pokemon;

@@ -1,5 +1,9 @@
 package com.curso.service;
-
+/**
+ * Clase PokemonsServiceImpl que implementa la interfaz PokemonsService, funcionara como servicio
+ * @author Daniel Rodriguez
+ * @version 1.0.0 26-05-2023
+ */
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;

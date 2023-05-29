@@ -14,7 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.curso.model.Pokemon;
 import com.curso.service.PokemonsService;
-
+/**
+ * @author Daniel Rodriguez
+ * @version 1.0.0 26-05-2023
+ * Clase PokemonController que se encargara de intercambiar información 
+ */
 @RestController
 public class PokemonController {
 	@Autowired

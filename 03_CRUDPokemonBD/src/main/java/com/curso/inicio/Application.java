@@ -1,5 +1,8 @@
 package com.curso.inicio;
-
+/**
+ * @author Daniel Rodriguez
+ * @version 1.0.0 26-05-2023
+ */
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
